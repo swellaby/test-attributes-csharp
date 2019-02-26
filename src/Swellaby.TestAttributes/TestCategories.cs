@@ -3,7 +3,7 @@ namespace Swellaby.TestAttributes
 {
     /// <summary>
     /// Constants to use consistent values on the TestCategory attribute used commonly in MSTest.
-    /// In tools such as TFS and VSTS, the TestCategory can be used to filter which tests are executed.
+    /// In tools such like Azure DevOps, the TestCategory can be used to filter which tests are executed.
     /// </summary>
     public class TestCategories
     {
